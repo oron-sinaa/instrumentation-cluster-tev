@@ -18,8 +18,3 @@
 ---
 
 ### Contacts -
-
-* quality@masstrans.in (Sachin Shembalay)
-* arun.kumar@masstrans.in (Arun Kumar)
-* sandeep.jadhav@masstrans.in (Sandeep Jadhav)
-* amarnatha.c@masstrans.in (Amarnatha)
